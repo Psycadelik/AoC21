@@ -1,0 +1,7 @@
+*.py~
+*.~
+*.txt~
+.gitignore~
+.venv
+*__pycache__
+.git
